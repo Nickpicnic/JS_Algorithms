@@ -9,7 +9,7 @@
     - Backtracking
     - etc.
 
-    * Frequency Counters
+    * **Frequency Counters**
         *(this pattern uses objects or sets to collect values / frequencies of values)*
         *(this can ofthen avoid the need for nested loops or **O(N<sup>2</sup>)** operations with arrays / strings)*
         
@@ -27,7 +27,7 @@
             - validAnagrams("anagram", "nagaram") //true
             - validAnagrams("car", "rat") //false
 
-    * Multiple Pointers 
+    * **Multiple Pointers** 
         *(creating **pointers** or **values** that corresponds to an index or position and move towards the beginning, end or middle based on a certain condition)*
         *(**Very** efficient for solving problems with minimal space complexity as well)*
        
@@ -46,7 +46,7 @@
             - countUniqueValues([]) *// 0*
             - countUniqueValues([-2, -1, -1, 0, 1]) *// 4*
 
-    * Sliding Window
+    * **Sliding Window**
         *(this pattern involves creating a **window** which can either be an array or number from one position to another)*
         *(depending on a certain condition, the window either increases or closes (and new window is created))*
         *(very useful for keeping track of a subset of data in an array / string etc.)*
@@ -60,7 +60,7 @@
             - maxSubarraySum([], 4) *// null*      
                 - Time complexity - **O(N)**
 
-    * Divide and Conquer
+    * **Divide and Conquer**
         *(this pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data)*
         *(this pattern can tremendously **decrease time complexity**)*      
         
