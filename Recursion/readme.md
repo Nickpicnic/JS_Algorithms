@@ -37,3 +37,4 @@
     - *reverse.js*
     - *isPalindrome.js*
     - *someRecursive.js*
+    - *flatten.js*
