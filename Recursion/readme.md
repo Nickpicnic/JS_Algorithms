@@ -38,3 +38,4 @@
     - *isPalindrome.js*
     - *someRecursive.js*
     - *flatten.js*
+    - *capitalizeFirst.js**
