@@ -38,4 +38,5 @@
     - *isPalindrome.js*
     - *someRecursive.js*
     - *flatten.js*
-    - *capitalizeFirst.js**
+    - *capitalizeFirst.js*
+    - *nestedEvenSum.js*
