@@ -40,3 +40,6 @@
     - *flatten.js*
     - *capitalizeFirst.js*
     - *nestedEvenSum.js*
+    - *capitalizeWords.js*
+    -  *stringifyNumbers.js*
+    - *collectStrings.js*
