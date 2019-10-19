@@ -21,7 +21,7 @@
     - **Pushing**
         - Adding a new **node** to the end of the Linked List!
     - **Popping**
-        - Removinga **node** from the end of the Linked List!
+        - Removing a **node** from the end of the Linked List!
     - **Shifting**
         - Removing a new **node** from the beginning of the Linked List!
     - **Unshifting**
