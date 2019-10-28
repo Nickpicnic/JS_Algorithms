@@ -1,5 +1,5 @@
 # Graphs
-* **What are graph?**
+* **What is it?**
     - A **graph data structure** consists of a finite (and possible mutable) set of vertices or nodes or points, together with a set of unordered pairs of these vertices for an undirected **graph** or a set of ordered pairs for a directed **graph**.
 
     - **Nodes** + **Connections**
