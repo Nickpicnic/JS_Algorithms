@@ -33,7 +33,7 @@
 * Adjacency Matrix Vs. List **Big O**
 
 OPERTAION       |       ADJACENCY LIST      |       ADJACENCY MATRIX
-: --            |       : -- :              |       : -- :
+:--             |         :--:              |           :--:
 Add Vertex      |       O(1)                |       O(V<sup>2</sup>)
 Add Edge        |       O(1)                |       O(1)
 Remove Vertex   |       O(|V| + |E|)        |       O(V<sup>2</sup>)
