@@ -36,10 +36,10 @@ OPERTAION       |       ADJACENCY LIST      |       ADJACENCY MATRIX
 :--             |         :--:              |           :--:
 Add Vertex      |       O(1)                |       O(V<sup>2</sup>)
 Add Edge        |       O(1)                |       O(1)
-Remove Vertex   |       O(|V| + |E|)        |       O(V<sup>2</sup>)
-Remove Edge     |       O(|E|)              |       O(1)
-Query           |       O(|V| + |E|)        |       O(1)
-Storage         |       O(|V| + |E|)        |       O(V<sup>2</sup>)
+Remove Vertex   |       O(V + E)            |       O(V<sup>2</sup>)
+Remove Edge     |       O(E)                |       O(1)
+Query           |       O(V + E)            |       O(1)
+Storage         |       O(V + E)            |       O(V<sup>2</sup>)
 
 - *|V| - number of vertices*
 - *|E| - number of edges*
